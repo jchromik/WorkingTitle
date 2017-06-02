@@ -2,9 +2,11 @@
 	"class" : {
 		 },
 	"instance" : {
-		"attributesFor:on:" : "jc 6/1/2017 15:40",
-		"blockDict" : "jc 6/1/2017 15:40",
-		"checkMethodName:" : "jc 6/1/2017 15:33",
-		"checkParameterName:" : "jc 6/1/2017 15:42",
-		"checkTempVar:" : "jc 6/1/2017 15:26",
+		"attributesFor:on:" : "jc 6/2/2017 13:40",
+		"checkPatternArg:" : "jc 6/2/2017 13:37",
+		"checkPatternKeyword:" : "jc 6/2/2017 13:37",
+		"checkPatternTempVar:" : "jc 6/2/2017 13:36",
+		"checks" : "jc 6/2/2017 13:22",
+		"methodForCheck:" : "jc 6/2/2017 13:28",
+		"performCheck:with:" : "jc 6/2/2017 13:39",
 		"setAttributesIn:fromRanges:" : "jc 6/1/2017 15:21" } }

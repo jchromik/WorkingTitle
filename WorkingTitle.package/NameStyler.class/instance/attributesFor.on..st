@@ -1,10 +1,9 @@
-as yet unclassified
+style table
 attributesFor: aSymbol on: aString
 	| attributes baseAttributes | 
 	attributes := OrderedCollection new.
 	baseAttributes := self attributesFor: aSymbol.
 	baseAttributes ifNotNil: [
 		attributes addAll: baseAttributes ].
-	self blockDict at: aSymbol ifPresent: [ :aMethodSymbol |
-		attributes addAll: (self perform: aMethodSymbol with: aString) ].
+	attributes addAll: (self performCheck: aSymbol with: aString).
 	 ^ attributes asArray

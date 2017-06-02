@@ -1,5 +1,5 @@
-as yet unclassified
-checkParameterName: aString
+checks
+checkPatternArg: aString
 
 	(aString first = $a) ifFalse: [^{ TextColor red }].
 	(aString includes: $_) ifTrue: [^{ TextColor red }].

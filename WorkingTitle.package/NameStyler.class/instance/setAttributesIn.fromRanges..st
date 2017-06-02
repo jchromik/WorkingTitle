@@ -1,4 +1,4 @@
-as yet unclassified
+private
 setAttributesIn: aText fromRanges: ranges
 
 	| defaultAttributes newRuns newValues lastAttributes oldRuns nextIndex lastCount | 	

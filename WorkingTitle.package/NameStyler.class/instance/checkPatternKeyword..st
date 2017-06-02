@@ -1,5 +1,5 @@
-as yet unclassified
-checkMethodName: aString
+checks
+checkPatternKeyword: aString
 
 	(aString includes: $_) ifTrue: [^{ TextColor red }].
 	^{}

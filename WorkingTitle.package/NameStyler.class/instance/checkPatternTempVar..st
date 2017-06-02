@@ -1,5 +1,5 @@
-as yet unclassified
-checkTempVar: aString
+checks
+checkPatternTempVar: aString
 
 	(aString includes: $_) ifTrue: [^{ TextColor red }].
 	^{}
