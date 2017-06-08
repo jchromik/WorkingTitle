@@ -1,4 +1,4 @@
 private
-methodForCheck: aSymbol
+methodFor: aSymbol
 
 	^ ('check' , aSymbol asString capitalized , $:) asSymbol
