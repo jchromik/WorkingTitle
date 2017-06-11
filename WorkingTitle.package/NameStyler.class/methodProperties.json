@@ -1,6 +1,6 @@
 {
 	"class" : {
-		 },
+		"deduceMethod:" : "jc 6/11/2017 11:54" },
 	"instance" : {
 		"attributesFor:on:" : "jc 6/8/2017 13:32",
 		"checkPatternArg:" : "jc 6/8/2017 15:37",
@@ -9,4 +9,4 @@
 		"methodFor:" : "jc 6/8/2017 13:11",
 		"performCheck:with:" : "jc 6/8/2017 13:13",
 		"setAttributesIn:fromRanges:" : "jc 6/8/2017 14:40",
-		"unstyledTextFrom:" : "jc 6/8/2017 15:29" } }
+		"unstyledTextFrom:" : "jc 6/9/2017 13:35" } }
