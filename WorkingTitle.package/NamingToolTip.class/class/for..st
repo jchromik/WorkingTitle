@@ -1,5 +1,6 @@
 as yet unclassified
 for: aString
 
-	^self evalBlock: [
-		(NewBalloonMorph string: aString for: self currentWorld) popUpForHand: self currentHand ].
+	^ self evalBlock: [ | balloon |
+		balloon := (NewBalloonMorph string: aString for: self currentWorld)
+		balloon popUpForHand: self currentHand ].
