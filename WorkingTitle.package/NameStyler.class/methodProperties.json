@@ -2,11 +2,13 @@
 	"class" : {
 		"deduceMethod:" : "jc 6/11/2017 11:54" },
 	"instance" : {
-		"attributesFor:on:" : "jc 6/8/2017 13:32",
-		"checkPatternArg:" : "jc 6/8/2017 15:37",
-		"checkPatternKeyword:" : "jc 6/2/2017 13:37",
-		"checkPatternTempVar:" : "jc 6/2/2017 13:36",
-		"methodFor:" : "jc 6/8/2017 13:11",
-		"performCheck:with:" : "jc 6/8/2017 13:13",
+		"attributesFor:on:" : "jc 6/15/2017 16:13",
+		"checkMethodFor:" : "jc 6/15/2017 16:15",
+		"checksForPatternArg" : "jc 6/15/2017 16:07",
+		"checksForPatternKeyword" : "jc 6/15/2017 15:57",
+		"checksForPatternTempVar" : "jc 6/15/2017 15:56",
+		"isIdiomaticParameterArgName:" : "jc 6/15/2017 16:17",
+		"parameterArgName:endsWithClassNameAndBeginsWith:" : "jc 6/15/2017 14:51",
+		"performChecksForType:on:" : "jc 6/15/2017 16:12",
 		"setAttributesIn:fromRanges:" : "jc 6/8/2017 14:40",
 		"unstyledTextFrom:" : "jc 6/9/2017 13:35" } }
